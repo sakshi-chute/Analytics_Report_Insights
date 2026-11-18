@@ -1,0 +1,9 @@
+Order_Date,Region,Product,Category,Units_Sold,Revenue,Cost
+2026-01-05,North,Laptop,Electronics,2,120000,90000
+2026-01-10,South,Phone,Electronics,5,75000,55000
+2026-02-05,East,Laptop,Electronics,1,60000,45000
+2026-02-12,West,Tablet,Electronics,3,90000,66000
+2026-02-18,North,Phone,Electronics,4,60000,44000
+2026-03-05,South,Laptop,Electronics,2,120000,90000
+2026-03-15,East,Phone,Electronics,3,45000,33000
+2026-03-20,West,Tablet,Electronics,2,60000,44000
